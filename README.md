@@ -1,6 +1,6 @@
 # LembrEscola
 
-LembrEscola é um software desenvolvido como parte do Projeto Integrador do 4º semestre do curso de Bacharelado em Tecnologia da Informação da Universidade Virtual do Estado de São Paulo (UNIVESP).
+LembrEscola é um software desenvolvido como parte do Projeto Integrador do 4º semestre do eixo da Computação da Universidade Virtual do Estado de São Paulo (UNIVESP).
 
 ## Descrição
 
